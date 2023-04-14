@@ -24,3 +24,10 @@ def multiply (k,m):
 def remainder (p,t):
     answer = (p%t)
     return answer
+
+#sum
+def sum(*numbers):
+    answer = 0:
+    for number in numbers
+    answer += number
+return number
